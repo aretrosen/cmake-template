@@ -1,0 +1,20 @@
+---
+BasedOnStyle: LLVM
+AccessModifierOffset: -3
+BraceWrapping:
+  AfterFunction:   true
+  BeforeCatch:     true
+  BeforeElse:      true
+AllowShortEnumsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: Empty
+BreakAfterReturnType: Automatic
+BreakBeforeBinaryOperators: All
+BreakBeforeBraces: Stroustrup
+BreakTemplateDeclarations: Yes
+ColumnLimit: 100
+IndentWidth: 3
+ObjCBlockIndentWidth: 3
+SpacesBeforeTrailingComments: 3
+TabWidth: 3
+UseTab: ForContinuationAndIndentation
+...

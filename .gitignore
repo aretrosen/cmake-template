@@ -1,0 +1,12 @@
+# Build directories and binary files
+build/
+out/
+out/coverage/*
+cmake-build-*/
+
+# User spesific settings
+CMakeUserPresets.json
+CMakeCache.txt
+CMakeFiles/
+
+*.bak
